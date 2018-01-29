@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/src/model_checkpoint/cnn_nn_20180106_064042.ckpt"
+all_model_checkpoint_paths: "/home/ubuntu/src/model_checkpoint/cnn_nn_20180106_064042.ckpt"
